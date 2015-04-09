@@ -1,0 +1,23 @@
+.content-area {width:600px;}
+
+h1 {text-align: center; color: #8A0108;}
+
+#menu {margin: auto; width: 600px; margin: 10px 0 20px; background: none repeat scroll 0 0 #8A0108; color: #fff; font-weight: bold; }
+
+#customerlist > button {margin: 10px 0;}
+
+#customerdisplay table th {padding-bottom: 5px; text-align: left; text-decoration: underline; text-transform: uppercase; width: 33%; background: none repeat scroll 0 0 #ff9800; word-wrap: normal;}
+
+#orderhistory table th {padding-bottom: 5px; text-align: left; text-decoration: underline; text-transform: uppercase; width: 33%; background: none repeat scroll 0 0 #ff9800; word-wrap: normal;}
+
+#ordersplaced table th {padding: 5px; text-align: left; text-decoration: underline; text-transform: uppercase; width: 14%; background: none repeat scroll 0 0 #8A0108; word-wrap: normal;}
+
+td {padding-left: 5px;}
+
+#orderhistory > button {margin: 10px 0;}
+
+#ordersplaced > button {margin: 10px 0;}
+
+section.customerlist {background-color: #400202; color: #FFFFFF; visibility: hidden; width: 600px; }
+section.orderhistory {background-color: #C13100; position: absolute; top: 141px; visibility: hidden; width: 590px; color: #FFFFFF; padding: 5px;}
+section.ordersplaced {background-color: #FF9800; position: absolute; top: 141px; visibility: hidden; width: 590px; color: #FFFFFF; padding: 5px;}
